@@ -43,7 +43,7 @@ body .card h3 {
   letter-spacing: 0.25em;
   font-size: 1em;
 }
-body .card h2 {
+body .card h1 {
   font-family: "Fraunces", serif;
   font-weight: 700;
   font-size: 2.25em;
@@ -105,7 +105,7 @@ body .card .btn-cart img {
     width: 285px;
     margin: 2.2em 0.5em;
   }
-  body .card .wrapper h2 {
+  body .card .wrapper h1 {
     margin: 0.65em 0;
   }
   body .card .wrapper p {
